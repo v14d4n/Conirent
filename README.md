@@ -4,3 +4,9 @@
 На данном этапе реализованы только основные механики, в дальнейшем поддерживаться не будет.
 
 Использовались библиотеки PUN 2 и Photon Voice 2. Все модели, материалы и текстуры взяты из открытых источников.
+
+[v14d4n](https://github.com/v14d4n) - Main developer
+
+[chelben](https://github.com/chelben) - Front-end
+
+[Oswkeil](https://github.com/Oswkeil) - Designer/Interior designer
