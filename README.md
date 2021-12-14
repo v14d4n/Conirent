@@ -5,7 +5,7 @@
 
 Использовались библиотеки PUN 2 и Photon Voice 2. Все модели, материалы и текстуры взяты из открытых источников.
 
-[v14d4n](https://github.com/v14d4n) - Главный разработчик
+[v14d4n](https://github.com/v14d4n) - Ведущий разработчик
 
 [chelben](https://github.com/chelben) - Менюшки
 
