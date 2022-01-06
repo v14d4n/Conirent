@@ -5,11 +5,11 @@
 
 Использовались библиотеки PUN 2 и Photon Voice 2. Все модели, материалы и текстуры взяты из открытых источников.
 
-[v14d4n](https://github.com/v14d4n) - Ведущий разработчик
-
 [chelben](https://github.com/chelben) - Менюшки
 
 [Oswkeil](https://github.com/Oswkeil) - Дизайн
+
+[v14d4n](https://github.com/v14d4n) - Все остальное
 
 <details>
   <summary>Скриншоты</summary>
